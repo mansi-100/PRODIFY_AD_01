@@ -1,0 +1,6 @@
+com.example.calculator_app.test.app-core-1.5.0-0 C:\Users\mansi nayak\.gradle\caches\transforms-3\30568b380fcbd6c472dec8793871322c\transformed\core-1.5.0\res
+com.example.calculator_app.test.app-annotation-experimental-1.4.0-1 C:\Users\mansi nayak\.gradle\caches\transforms-3\fc4914657f3f7aaa79f7c013269829da\transformed\annotation-experimental-1.4.0\res
+com.example.calculator_app.test.app-androidTest-2 D:\android_mca\internship\cognorise\task1\app\build\generated\res\resValues\androidTest\debug
+com.example.calculator_app.test.app-mergeDebugAndroidTestResources-3 D:\android_mca\internship\cognorise\task1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.calculator_app.test.app-mergeDebugAndroidTestResources-4 D:\android_mca\internship\cognorise\task1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.calculator_app.test.app-merged_res-5 D:\android_mca\internship\cognorise\task1\app\build\intermediates\merged_res\debugAndroidTest

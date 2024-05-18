@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color vertical_line_color
+color white
+drawable calci
+drawable grid_item_border
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable plus
+id gridView
+id imageView
+id textView
+id textView2
+layout activity_main
+layout activity_splash_screen
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Calculator_app
+style Theme.Calculator_app
+xml backup_rules
+xml data_extraction_rules

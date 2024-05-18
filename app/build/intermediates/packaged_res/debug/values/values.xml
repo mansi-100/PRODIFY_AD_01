@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0C0C4E</color>
+    <color name="vertical_line_color">#D3D3D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Calculator_app</string>
+    <style name="Base.Theme.Calculator_app" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Calculator_app" parent="Base.Theme.Calculator_app"/>
+</resources>
